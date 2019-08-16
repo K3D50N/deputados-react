@@ -1,0 +1,22 @@
+#input {
+    width: 400px;
+    border-radius: 50px;
+    margin: 10px
+}
+
+#card{
+    background-color: #d0d0d0;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#nota {
+    color: #ff0000;
+}
